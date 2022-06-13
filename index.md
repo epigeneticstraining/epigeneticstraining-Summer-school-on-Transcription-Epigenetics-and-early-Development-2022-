@@ -24,12 +24,14 @@ Maximum participation (Master + PhD students) is 25, so please register well ahe
 |Nadine Vastenhouw|University of Lausanne
 
 **You can find schedule, PPT of presentation and PDF of the reading material here (password to open these files will be shared)**
+
 [Schedule TED course](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8891606/Schedule_TED.course_2022_V5.xlsx)
+
 [Starting material](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8893650/starting.materials.zip)
 
 **Schedule**:
-
-Monday July 4|Activity|Instructor|Affiliation|Title
+Time|Activity|Instructor|Affiliation|Title
+**Monday July 4**||||
 0915-1000|Introduction|SA||
 1015-1100|Lecture|MT||Basics of chromatin-lecture 1 
 1115-1200|Lecture|MT||Basics of chromatin-lecture 2
@@ -40,7 +42,7 @@ Monday July 4|Activity|Instructor|Affiliation|Title
 1515-1545|Qs&As|SA||
 1545-1645|Read paper #1|SA||
 ||||
-Tuesday July 5||||
+**Tuesday July 5**||||
 0915-1000|Discuss paper #1|SA||
 1015-1100|Lecture|SA||Basics of transcription-lecture 2
 1115-1200|Lecture|SA||Basics of transcription-lecture 3
@@ -51,7 +53,7 @@ Tuesday July 5||||
 1530-1600|Qs&As|MT||
 1600-1700|Read paper #2|MT||
 ||||
-Wednesday July 6||||
+**Wednesday July 6**||||
 0915-1000|Discuss paper #2|MT||
 1015-1100|Lecture|SA||Early Development and gene expression-lecture 1
 1115-1200|Lecture|SA||Early Development and gene expression-lecture 2
@@ -62,7 +64,7 @@ Wednesday July 6||||
 1530-1615|Research seminar|Yang Shi||Epigenetic regulation in immuno-oncology
 1630-1700|Qs&As|MT||
 ||||
-Thursday July 7||||
+**Thursday July 7**||||
 0915-1000|Discuss paper #3|MT||
 1015-1100|Lecture|SA||Early Development and chromatin-lecture 1
 1115-1200|Lecture|SA||Early Development and chromatin-lecture 2
@@ -73,7 +75,7 @@ Thursday July 7||||
 1530-1615|Research seminar|Sandra Hake||Insights from the enigmatic histone variant H2A.Z and its binding partners
 1630-1700|Qs&As|SA||
 ||||
-Friday July 8||||
+**Friday July 8**||||
 0915-1000|Discuss paper #4|SA||
 1015-1100|Teaching lecture|MT||-
 1115-1200|Research seminar|MT||-
@@ -84,9 +86,9 @@ Friday July 8||||
 1530-1615|Research seminar|Tugce Aktas||Taming the repetitive transcriptome with RNA binding proteins
 1630-1700|Qs&As|MT||
 ||||
-Weekend||||
+**Weekend**||||
 ||||
-Monday July 11||||
+**Monday July 11**||||
 0915-1000|Discuss paper #5|MT||
 1015-1100|Teaching lecture|SA||-
 1115-1200|Research seminar|SA||-
@@ -97,7 +99,7 @@ Monday July 11||||
 1530-1615|Research seminar|Sebastian Preissl||Untangling cell-type-specific gene regulation and interpreting disease risk associations using single cell genomics
 1630-1700|Qs&As|SA||
 ||||
-Tuesday July 12||||
+**Tuesday July 12**||||
 0915-1000|Discuss paper #6|SA||
 1015-1100|Teaching lecture|Nicola Iovino||Polycomb discovery and functions
 1115-1200|Research seminar|Nicola Iovino||Epigenetics of early development and reproductive health
@@ -108,7 +110,7 @@ Tuesday July 12||||
 1530-1615|Research seminar|Dirk Schübeler||-
 1630-1700|Qs&As|MT||
 ||||
-Wednesday July 13||||
+**Wednesday July 13**||||
 0915-1000|Discuss paper #7|MT||
 1015-1100|Teaching lecture|Nadine Vastenhouw|University of Lausanne|-
 1115-1200|Research seminar|Nadine Vastenhouw||-
@@ -116,15 +118,14 @@ Wednesday July 13||||
 1230-1330|Lunch|||
 1330-1700|Revise/Study|||
 ||||
-Thursday July 14||||
+**Thursday July 14**||||
 0915-1400|Revise/Study|||
 1400-1600|Open questions?|SA & MT||
 ||||
-Friday July 15||||
+**Friday July 15**||||
 0915-1300|Revise/Study|||
 1300-1600|Exam|SA & MT||
 1600-1700|Feedback|SA & MT||
-
 
 **Class 2021**
 
