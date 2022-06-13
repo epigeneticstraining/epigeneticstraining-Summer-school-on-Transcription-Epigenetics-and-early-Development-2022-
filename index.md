@@ -6,7 +6,7 @@
 
 **Registration**: Maximum participation (Master + PhD students) is 25, so please register well ahead of the deadline of **June 1st, 2022**. Successful applicants will be notified 4 weeks in advance.  <br><br>
 
-<a href="http://www.sgbm.uni-freiburg.de/index.php?option=com_content&view=article&id=539&Itemid=397">
+<a href="http://www.sgbm.uni-freiburg.de/index.php?option=com_content&view=article&id=539&Itemid=397" target="_blank">
                       Link to register
                     </a>                  
 
