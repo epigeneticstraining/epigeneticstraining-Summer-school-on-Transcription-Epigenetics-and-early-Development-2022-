@@ -2,8 +2,6 @@
 
 **Organizers**: Prof. Sebastian Arnold (Dept. of Pharmacology) and Prof. Marc Timmers (Dept. of Urology/DKTK standort Freiburg)
 
-<img src="https://user-images.githubusercontent.com/86782211/173363325-887a31a0-4103-4ead-bfcd-7b986986d997.jpg" align='center' height=232.5  width=351.5 />
-
 **Venue**: Library of the Institute of Experimental and Clinical Pharmacology, Albertstrasse 25, Freiburg
 
 **Registration**: http://www.sgbm.uni-freiburg.de/index.php?option=com_content&view=article&id=539&Itemid=397. 
