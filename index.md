@@ -4,12 +4,12 @@
 **Venue**: Library of the Institute of Experimental and Clinical Pharmacology, Albertstrasse 25, Freiburg
 
 **Confirmed lecturers**: 
-1. Marc Timmers (Dept. of Urology/DKTK, Freiburg)
-2.... 
+      1. Marc Timmers (Dept. of Urology/DKTK, Freiburg)
+      2.... 
 
 **You can find schedule, PPT of presentation and PDF of the reading material here**
 
-XX
+      XX
 
 **Schedule**
 |Date|Time|Activity|Instructor|Affiliation|Title
