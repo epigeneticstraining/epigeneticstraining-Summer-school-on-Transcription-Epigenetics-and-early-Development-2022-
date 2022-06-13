@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Summer school on Transcription, Epigenetics and early Development webpage (July 12-23, 2021)
+**Organizers**: Prof. Sebastian Arnold (Dept. of Pharmacology) and Prof. Marc Timmers (Dept. of Urology/DKTK standort Freiburg)
 
-You can use the [editor on GitHub](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Venue**: Library of the Institute of Experimental and Clinical Pharmacology, Albertstrasse 25, Freiburg
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Confirmed lecturers**: 
+1. Marc Timmers (Dept. of Urology/DKTK, Freiburg)
+2.... 
 
-### Markdown
+**You can find schedule, PPT of presentation and PDF of the reading material here**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+XX
 
-```markdown
-Syntax highlighted code block
+**Schedule**
+|Date|Time|Activity|Instructor|Affiliation|Title
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Batch 2021**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86782211/126693636-06dbf506-fe5d-4656-a7cc-7a37e3ebc545.jpg" align='left' />
+</p>
