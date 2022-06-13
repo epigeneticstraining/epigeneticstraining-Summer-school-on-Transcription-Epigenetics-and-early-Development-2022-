@@ -1,5 +1,7 @@
 ## Welcome to Summer school on "Transcription, Epigenetics and early Development" webpage (July 4th-15th, 2022)
 
+<img src="https://user-images.githubusercontent.com/86782211/173426815-f4e9eb59-0d5e-4d9b-9f60-5224ea325dd4.jpg"/ align="right">
+
 **Organizers**: Prof. Sebastian Arnold (Dept. of Pharmacology) and Prof. Marc Timmers (Dept. of Urology/DKTK standort Freiburg)
 
 **Venue**: Library of the Institute of Experimental and Clinical Pharmacology, Albertstrasse 25, Freiburg
@@ -129,6 +131,8 @@
 0915-1300|Revise/Study|||
 1300-1600|Exam|SA & MT||
 1600-1700|Feedback|SA & MT||
+
+MT: Marc Timmers and SA: Sebastian Arnold
 
 **Class 2021**
 
