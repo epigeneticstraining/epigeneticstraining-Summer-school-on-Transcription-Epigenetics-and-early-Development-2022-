@@ -24,6 +24,7 @@ Maximum participation (Master + PhD students) is 25, so please register well ahe
 |Nadine Vastenhouw|University of Lausanne
 
 **You can find schedule, PPT of presentation and PDF of the reading material here**
+[Schedule_TED course_2022_V5.xlsx](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8891606/Schedule_TED.course_2022_V5.xlsx)
 
 
 **Schedule**: To be announced
