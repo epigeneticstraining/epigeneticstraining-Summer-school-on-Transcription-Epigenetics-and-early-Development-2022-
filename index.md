@@ -29,7 +29,7 @@ Maximum participation (Master + PhD students) is 25, so please register well ahe
 
 **Schedule**: To be announced
 
-**Batch 2021**
+**Class 2021**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/86782211/126693636-06dbf506-fe5d-4656-a7cc-7a37e3ebc545.jpg" align='left'/>
