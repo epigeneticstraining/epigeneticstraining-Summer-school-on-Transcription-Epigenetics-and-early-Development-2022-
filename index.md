@@ -4,8 +4,7 @@
 
 **Venue**: Library of the Institute of Experimental and Clinical Pharmacology, Albertstrasse 25, Freiburg
 
-**Registration**: Maximum participation (Master + PhD students) is 25, so please register well ahead of the deadline of **June 1st, 2022**. Successful applicants will be notified 4 weeks in advance.  <br><br>
-
+**Registration**: Maximum participation (Master + PhD students) is 25, so please register well ahead of the deadline of **June 1st, 2022**. Successful applicants will be notified 4 weeks in advance.<br>
 <a href="http://www.sgbm.uni-freiburg.de/index.php?option=com_content&view=article&id=539&Itemid=397" target="_blank">
                       Link to register
                     </a>                  
@@ -34,7 +33,7 @@
 
 **Schedule**:
 
-Time|Activity|Instructor|Affiliation|Title
+**Time|Activity|Instructor|Affiliation|Title**
 **Monday July 4**||||
 0915-1000|Introduction|SA||
 1015-1100|Lecture|MT||Basics of chromatin-lecture 1 
