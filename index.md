@@ -23,11 +23,108 @@ Maximum participation (Master + PhD students) is 25, so please register well ahe
 |Dirk Schübeler|FMI, Basel
 |Nadine Vastenhouw|University of Lausanne
 
-**You can find schedule, PPT of presentation and PDF of the reading material here**
-[Schedule_TED course_2022_V5.xlsx](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8891606/Schedule_TED.course_2022_V5.xlsx)
+**You can find schedule, PPT of presentation and PDF of the reading material here (password to open these files will be shared)**
+[Schedule TED course](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8891606/Schedule_TED.course_2022_V5.xlsx)
+[Starting material](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8893650/starting.materials.zip)
 
+**Schedule**:
 
-**Schedule**: To be announced
+Monday July 4|Activity|Instructor|Affiliation|Title
+0915-1000|Introduction|SA||
+1015-1100|Lecture|MT||Basics of chromatin-lecture 1 
+1115-1200|Lecture|MT||Basics of chromatin-lecture 2
+1200-1230|Qs&As|MT||
+1230-1315|Lunch|||
+1315-1400|Lecture|MT||Basics of chromatin-lecture 3
+1415-1500|Lecture|MT||Basics of transcription-lecture 1 
+1515-1545|Qs&As|SA||
+1545-1645|Read paper #1|SA||
+||||
+Tuesday July 5||||
+0915-1000|Discuss paper #1|SA||
+1015-1100|Lecture|SA||Basics of transcription-lecture 2
+1115-1200|Lecture|SA||Basics of transcription-lecture 3
+1200-1230|Qs&As|SA||
+1230-1330|Lunch|||
+1330-1415|Lecture|MT||Basics of transcription-lecture 4
+1430-1515|Lecture|MT||Basics of transcription-lecture 5
+1530-1600|Qs&As|MT||
+1600-1700|Read paper #2|MT||
+||||
+Wednesday July 6||||
+0915-1000|Discuss paper #2|MT||
+1015-1100|Lecture|SA||Early Development and gene expression-lecture 1
+1115-1200|Lecture|SA||Early Development and gene expression-lecture 2
+1200-1230|Qs&As|SA||
+1230-1330|Lunch|||
+1330-1415|Teaching lecture|Yang Shi|Ludwig Institute, London|Histone demethylation pathways-historical perspective
+1430-1530|Read paper #3|MT||
+1530-1615|Research seminar|Yang Shi||Epigenetic regulation in immuno-oncology
+1630-1700|Qs&As|MT||
+||||
+Thursday July 7||||
+0915-1000|Discuss paper #3|MT||
+1015-1100|Lecture|SA||Early Development and chromatin-lecture 1
+1115-1200|Lecture|SA||Early Development and chromatin-lecture 2
+1200-1230|Qs&As|MT||
+1230-1330|Lunch|||
+1330-1415|Teaching lecture|Sandra Hake|University of Giessen|The Diverse World of Histone Variants
+1430-1530|Read paper #4|SA||
+1530-1615|Research seminar|Sandra Hake||Insights from the enigmatic histone variant H2A.Z and its binding partners
+1630-1700|Qs&As|SA||
+||||
+Friday July 8||||
+0915-1000|Discuss paper #4|SA||
+1015-1100|Teaching lecture|MT||-
+1115-1200|Research seminar|MT||-
+1200-1230|Qs&As|SA||
+1230-1330|Lunch|||
+1330-1415|Teaching lecture|Tugce Aktas|MPI, Berlin|Transposable Elements and Genome evolution
+1430-1530|Read paper #5|MT||
+1530-1615|Research seminar|Tugce Aktas||Taming the repetitive transcriptome with RNA binding proteins
+1630-1700|Qs&As|MT||
+||||
+Weekend||||
+||||
+Monday July 11||||
+0915-1000|Discuss paper #5|MT||
+1015-1100|Teaching lecture|SA||-
+1115-1200|Research seminar|SA||-
+1200-1230|Qs&As|MT||
+1230-1330|Lunch|||
+1330-1415|Teaching lecture|Sebastian Preissl|Medical Center - Uni Freiburg|Single-cell epigenomic and multi-omics technologies
+1430-1530|Read paper #6|SA||
+1530-1615|Research seminar|Sebastian Preissl||Untangling cell-type-specific gene regulation and interpreting disease risk associations using single cell genomics
+1630-1700|Qs&As|SA||
+||||
+Tuesday July 12||||
+0915-1000|Discuss paper #6|SA||
+1015-1100|Teaching lecture|Nicola Iovino||Polycomb discovery and functions
+1115-1200|Research seminar|Nicola Iovino||Epigenetics of early development and reproductive health
+1200-1230|Qs&As|SA||
+1230-1330|Lunch|||
+1330-1415|Teaching lecture|Dirk Schübeler|FMI, Basel|-
+1430-1530|Read paper #7|MT||
+1530-1615|Research seminar|Dirk Schübeler||-
+1630-1700|Qs&As|MT||
+||||
+Wednesday July 13||||
+0915-1000|Discuss paper #7|MT||
+1015-1100|Teaching lecture|Nadine Vastenhouw|University of Lausanne|-
+1115-1200|Research seminar|Nadine Vastenhouw||-
+1200-1230|Qs&As|SA||
+1230-1330|Lunch|||
+1330-1700|Revise/Study|||
+||||
+Thursday July 14||||
+0915-1400|Revise/Study|||
+1400-1600|Open questions?|SA & MT||
+||||
+Friday July 15||||
+0915-1300|Revise/Study|||
+1300-1600|Exam|SA & MT||
+1600-1700|Feedback|SA & MT||
+
 
 **Class 2021**
 
