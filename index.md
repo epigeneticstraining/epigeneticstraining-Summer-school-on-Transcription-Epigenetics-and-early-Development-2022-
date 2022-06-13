@@ -33,6 +33,7 @@
 [Starting material](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8893650/starting.materials.zip)
 
 **Schedule**:
+
 Time|Activity|Instructor|Affiliation|Title
 **Monday July 4**||||
 0915-1000|Introduction|SA||
