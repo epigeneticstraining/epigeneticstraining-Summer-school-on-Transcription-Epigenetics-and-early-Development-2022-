@@ -76,7 +76,7 @@
 1200-1230|Qs&As|MT||
 1230-1330|Lunch|||
 1330-1415|Teaching lecture|Sandra Hake|University of Giessen|The Diverse World of Histone Variants
-1430-1530|Read paper #4|SA||
+1430-1530|Read paper #4|SA||Regulatory Landscaping: How Enhancer-Promoter Communication Is Sculpted in 3D
 1530-1615|Research seminar|Sandra Hake||Insights from the enigmatic histone variant H2A.Z and its binding partners
 1630-1700|Qs&As|SA||
 ||||
@@ -87,7 +87,7 @@
 1200-1230|Qs&As|SA||
 1230-1330|Lunch|||
 1330-1415|Teaching lecture|Tugce Aktas|MPI, Berlin|Transposable Elements and Genome evolution
-1430-1530|Read paper #5|MT||
+1430-1530|Read paper #5|MT||RNA in formation and regulation of transcriptional condensates
 1530-1615|Research seminar|Tugce Aktas||Taming the repetitive transcriptome with RNA binding proteins
 1630-1700|Qs&As|MT||
 ||||
