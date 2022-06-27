@@ -121,7 +121,7 @@
 1230-1330|Lunch|||
 1330-1415|Teaching lecture|Nadine Vastenhouw|University of Lausanne|Genome organization during development, zygotic genome activation ??
 1430-1600|Revise/Study|||
-1615-1700|Research seminar|Nadine Vastenhouw||-
+1615-1700|Research seminar|Nadine Vastenhouw||The spark of Life - A role for nuclear organization in transcription regulation
 ||||
 **Thursday July 14**||||
 0915-1400|Revise/Study|||
