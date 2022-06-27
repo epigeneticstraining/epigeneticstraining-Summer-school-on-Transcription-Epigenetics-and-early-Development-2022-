@@ -29,7 +29,7 @@
 
 **You can find schedule, PPT of presentation and PDF of the reading material here (password to open these files will be shared)**
 
-[Schedule TED course](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8891606/Schedule_TED.course_2022_V5.xlsx)
+[Schedule TED course]([Copy of Schedule_TEDcourse_2022_V9_240622.xlsx](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8993392/Copy.of.Schedule_TEDcourse_2022_V9_240622.xlsx)
 
 [Starting material](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8893650/starting.materials.zip)
 
@@ -45,7 +45,7 @@
 1315-1400|Lecture|MT||Basics of chromatin-lecture 3
 1415-1500|Lecture|MT||Basics of transcription-lecture 1 
 1515-1545|Qs&As|SA||
-1545-1645|Read paper #1|SA||
+1545-1645|Read paper #1|SA||Nucleosomes Meet Their Remodeler Match
 ||||
 **Tuesday July 5**||||
 0915-1000|Discuss paper #1|SA||
@@ -56,7 +56,7 @@
 1330-1415|Lecture|MT||Basics of transcription-lecture 4
 1430-1515|Lecture|MT||Basics of transcription-lecture 5
 1530-1600|Qs&As|MT||
-1600-1700|Read paper #2|MT||
+1600-1700|Read paper #2|MT||The Human Transcription Factors
 ||||
 **Wednesday July 6**||||
 0915-1000|Discuss paper #2|MT||
@@ -65,9 +65,9 @@
 1200-1230|Qs&As|SA||
 1230-1330|Lunch|||
 1330-1415|Teaching lecture|Yang Shi|Ludwig Institute, London|Histone demethylation pathways-historical perspective
-1430-1530|Read paper #3|MT||
-1530-1615|Research seminar|Yang Shi||Epigenetic regulation in immuno-oncology
-1630-1700|Qs&As|MT||
+1430-1500|Qs&As|MT||
+1500-1600|Read paper #3|MT||Transcription-associated histone modifications & cryptic transcription
+1615-1700|Research seminar|Yang Shi||Epigenetic regulation in immuno-oncology
 ||||
 **Thursday July 7**||||
 0915-1000|Discuss paper #3|MT||
@@ -82,8 +82,8 @@
 ||||
 **Friday July 8**||||
 0915-1000|Discuss paper #4|SA||
-1015-1100|Teaching lecture|MT||-
-1115-1200|Research seminar|MT||-
+1015-1100|Teaching lecture|MT||Methods to profile transcription complexes and histone modifications on complex genomes
+1115-1200|Research seminar|MT||Basal transcription factor TFIID: chromatin interactions and biomolecular condensates
 1200-1230|Qs&As|SA||
 1230-1330|Lunch|||
 1330-1415|Teaching lecture|Tugce Aktas|MPI, Berlin|Transposable Elements and Genome evolution
@@ -95,14 +95,14 @@
 ||||
 **Monday July 11**||||
 0915-1000|Discuss paper #5|MT||
-1015-1100|Teaching lecture|SA||-
-1115-1200|Research seminar|SA||-
+1015-1100|Teaching lecture|SA||Stem Cell based models for studies of Development and gene regulation
+1115-1200|Research seminar|SA||From Signals to Chromatin: Regulation of lineage specification during mouse gastrulation
 1200-1230|Qs&As|MT||
 1230-1330|Lunch|||
 1330-1415|Teaching lecture|Sebastian Preissl|Medical Center - Uni Freiburg|Single-cell epigenomic and multi-omics technologies
-1430-1530|Read paper #6|SA||
-1530-1615|Research seminar|Sebastian Preissl||Untangling cell-type-specific gene regulation and interpreting disease risk associations using single cell genomics
-1630-1700|Qs&As|SA||
+1430-1500|Qs&As|SA||
+1500-1600|Read paper #6|SA||Molecular features of cellular reprogramming and development
+1615-1700|Research seminar|Sebastian Preissl||Untangling cell-type-specific gene regulation and interpreting disease risk associations using single cell genomics
 ||||
 **Tuesday July 12**||||
 0915-1000|Discuss paper #6|SA||
@@ -110,18 +110,18 @@
 1115-1200|Research seminar|Nicola Iovino||Epigenetics of early development and reproductive health
 1200-1230|Qs&As|SA||
 1230-1330|Lunch|||
-1330-1415|Teaching lecture|Dirk Schübeler|FMI, Basel|-
-1430-1530|Read paper #7|MT||
-1530-1615|Research seminar|Dirk Schübeler||-
+1330-1415|Teaching lecture|Dirk Schübeler|FMI, Basel|DNA methylation and demethylation
+1430-1530|Read paper #7|MT||Fast-acting chemical tools to delineate causality in transcriptional control
+1530-1615|Research seminar|Dirk Schübeler||Finding your place: Transcription factors as sensors and modifiers of chromatin
 1630-1700|Qs&As|MT||
 ||||
 **Wednesday July 13**||||
 0915-1000|Discuss paper #7|MT||
-1015-1100|Teaching lecture|Nadine Vastenhouw|University of Lausanne|-
-1115-1200|Research seminar|Nadine Vastenhouw||-
-1200-1230|Qs&As|SA||
+1000-1230|Revise/Study|||
 1230-1330|Lunch|||
-1330-1700|Revise/Study|||
+1330-1415|Teaching lecture|Nadine Vastenhouw|University of Lausanne|Genome organization during development, zygotic genome activation ??
+1430-1600|Revise/Study|||
+1615-1700|Research seminar|Nadine Vastenhouw||-
 ||||
 **Thursday July 14**||||
 0915-1400|Revise/Study|||
