@@ -35,13 +35,13 @@
 
 **4th July 2022**:
 
-[**TED2022 Chromatin Basics 1**](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040019/TED2022.Chromatin.Basics.1.pdf)
+[TED2022 Chromatin Basics 1](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040019/TED2022.Chromatin.Basics.1.pdf)
 
-[**TED2022 Txpn Basics 1-given**](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040021/TED2022.Txpn.Basics.1-given.pdf)
+[TED2022 Txpn Basics 1-given](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040021/TED2022.Txpn.Basics.1-given.pdf)
 
-[**TED2022 Chromatin Basics 2 Remod_DNMT**](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040024/TED2022.Chromatin.Basics.2.Remod_DNMT.pdf)
+[TED2022 Chromatin Basics 2 Remod_DNMT](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040024/TED2022.Chromatin.Basics.2.Remod_DNMT.pdf)
 
-[**TED2022 Chromatin Basics 3 Modif**](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040027/TED2022.Chromatin.Basics.3.Modif.pdf)
+[TED2022 Chromatin Basics 3 Modif](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040027/TED2022.Chromatin.Basics.3.Modif.pdf)
 
 **Schedule**:
 
