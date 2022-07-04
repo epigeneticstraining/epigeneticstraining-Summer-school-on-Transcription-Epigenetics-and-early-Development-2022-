@@ -29,19 +29,19 @@
 
 **You can find schedule, PPT of presentation and PDF of the reading material here (password to open these files will be shared)**
 
-[Schedule TED course]([Copy of Schedule_TEDcourse_2022_V9_240622.xlsx](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8993392/Copy.of.Schedule_TEDcourse_2022_V9_240622.xlsx)
+[Schedule TEDcourse 2022](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8993392/Copy.of.Schedule_TEDcourse_2022_V9_240622.xlsx
 
 [Starting material](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8893650/starting.materials.zip)
 
 **4th July 2022**:
 
-[TED2022 Chromatin Basics 1](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040019/TED2022.Chromatin.Basics.1.pdf)
+      [TED2022 Chromatin Basics 1](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040019/TED2022.Chromatin.Basics.1.pdf)
 
-[TED2022 Txpn Basics 1-given](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040021/TED2022.Txpn.Basics.1-given.pdf)
+      [TED2022 Txpn Basics 1-given](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040021/TED2022.Txpn.Basics.1-given.pdf)
 
-[TED2022 Chromatin Basics 2 Remod_DNMT](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040024/TED2022.Chromatin.Basics.2.Remod_DNMT.pdf)
+      [TED2022 Chromatin Basics 2 Remod_DNMT](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040024/TED2022.Chromatin.Basics.2.Remod_DNMT.pdf)
 
-[TED2022 Chromatin Basics 3 Modif](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040027/TED2022.Chromatin.Basics.3.Modif.pdf)
+      [TED2022 Chromatin Basics 3 Modif](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040027/TED2022.Chromatin.Basics.3.Modif.pdf)
 
 **Schedule**:
 
