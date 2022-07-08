@@ -51,7 +51,7 @@
 
 [1_TED_Transcription_2](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065891/1_TED_Transcription_2.pdf)
 
-[1_TED_Transcription_3]
+2_TED_Transcription_3: will be uploaded soon
 
 [3_TED_Development_Expression_1.pdf](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065914/3_TED_Development_Expression_1.pdf)
 
