@@ -47,7 +47,8 @@
 
 [Sebastian Arnold: Basics of transcription-lecture 2](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065891/1_TED_Transcription_2.pdf)
 
-2_TED_Transcription_3:
+[Sebastian Arnold: Basics of transcription-lecture 3]
+
 
 [Marc Timmers: Basics of transcription-lecture 4](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9047051/TED2022.Txpn.Basics.4.-.given.pdf)
 
@@ -84,7 +85,6 @@
 [Sebastian Preissl: Single-cell epigenomic and multi-omics technologies](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9087601/SPreissl_Teaching_Lecture_2021pptx.pdf)
 
 [Sebastian Arnold: Stem Cell based models for studies of Development and gene regulation](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9087699/6_TED_StemCellBasedModels.pdf)
-
 
 **Schedule**:
 
