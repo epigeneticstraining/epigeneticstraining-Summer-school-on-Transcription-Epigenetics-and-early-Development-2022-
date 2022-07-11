@@ -53,14 +53,23 @@
 
 2_TED_Transcription_3: will be uploaded soon
 
-[3_TED_Development_Expression_1.pdf](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065914/3_TED_Development_Expression_1.pdf)
+[3_TED_Development_Expression_1](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065914/3_TED_Development_Expression_1.pdf)
 
-[4_TED_Development_Expression_2.pdf](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065920/4_TED_Development_Expression_2.pdf)
+[4_TED_Development_Expression_2](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065920/4_TED_Development_Expression_2.pdf)
 
-[5_TED_Development_Chromatin_1.pdf](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065925/5_TED_Development_Chromatin_1.pdf)
+[5_TED_Development_Chromatin_1](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065925/5_TED_Development_Chromatin_1.pdf)
 
-[6_TED_Development_Chromatin_2.pdf](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065933/6_TED_Development_Chromatin_2.pdf)
+[6_TED_Development_Chromatin_2](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065933/6_TED_Development_Chromatin_2.pdf)
 
+**8th July, 2022**
+
+[TED-course-Aktas](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083256/TED-course-Aktas-Reduced.pdf)
+
+[TED-2022-Aktas-reading materials (part 1)](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083260/TED-2022-Aktas-reading-1.zip)
+
+[TED-2022-Aktas-reading materials (part 2)](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083291/TED-2022-Aktas-reading-2.zip)
+
+[TED-2022-Aktas-reading materials (part 3)](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083302/TED-2022-Aktas-reading-3.zip)
 
 **Schedule**:
 
