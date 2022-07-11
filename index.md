@@ -69,8 +69,6 @@
 
 **8th July, 2022**
 
-[Marc Timmers: Methods to profile transcription complexes and histone modifications on complex genomes]
-
 [Tugce Aktas: Transposable Elements and Genome evolution](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083256/TED-course-Aktas-Reduced.pdf)
 
 [Tugce Aktas: reading materials (part 1)](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083260/TED-2022-Aktas-reading-1.zip)
@@ -86,7 +84,7 @@
 [Sebastian Arnold: Stem Cell based models for studies of Development and gene regulation](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9087699/6_TED_StemCellBasedModels.pdf)
 
 **Schedule**:
-
+ 
 **Time**|**Activity**|**Instructor**|**Affiliation**|**Title**
 **Monday July 4**||||
 0915-1000|Introduction|SA||
