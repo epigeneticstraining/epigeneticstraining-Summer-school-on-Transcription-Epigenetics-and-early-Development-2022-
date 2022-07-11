@@ -29,47 +29,62 @@
 
 **You can find schedule, PPT of presentation and PDF of the reading material here (password to open these files will be shared)**
 
-[Schedule TEDcourse 2022](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8993392/Copy.of.Schedule_TEDcourse_2022_V9_240622.xlsx
+[Schedule of TED course - 2022](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8993392/Copy.of.Schedule_TEDcourse_2022_V9_240622.xlsx)
 
 [Starting material](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/8893650/starting.materials.zip)
 
 **4th July, 2022**:
 
-[TED2022 Chromatin Basics 1](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040019/TED2022.Chromatin.Basics.1.pdf)
+[Marc Timmers: Basics of chromatin-lecture 1](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040019/TED2022.Chromatin.Basics.1.pdf)
 
-[TED2022 Txpn Basics 1-given](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040021/TED2022.Txpn.Basics.1-given.pdf)
+[Marc Timmers: 	Basics of transcription-lecture 1](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040021/TED2022.Txpn.Basics.1-given.pdf)
 
-[TED2022 Chromatin Basics 2 Remod_DNMT](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040024/TED2022.Chromatin.Basics.2.Remod_DNMT.pdf)
+[Marc Timmers: Basics of chromatin-lecture 2](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040024/TED2022.Chromatin.Basics.2.Remod_DNMT.pdf)
 
-[TED2022 Chromatin Basics 3 Modif](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040027/TED2022.Chromatin.Basics.3.Modif.pdf)
+[Marc Timmers: Basics of chromatin-lecture 3](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9040027/TED2022.Chromatin.Basics.3.Modif.pdf)
 
-**5-7 July, 2022**
+**5th July, 2022**
 
-[TED2022 Txpn Basics 4 - give](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9047051/TED2022.Txpn.Basics.4.-.given.pdf)
+[Sebastian Arnold: Basics of transcription-lecture 2](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065891/1_TED_Transcription_2.pdf)
 
-[TED2022 Txpn Basics 5](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9047054/TED2022.Txpn.Basics.5.pdf)
+2_TED_Transcription_3:
 
-[1_TED_Transcription_2](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065891/1_TED_Transcription_2.pdf)
+[Marc Timmers: Basics of transcription-lecture 4](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9047051/TED2022.Txpn.Basics.4.-.given.pdf)
 
-2_TED_Transcription_3: will be uploaded soon
+[Marc Timmers: Basics of transcription-lecture 5](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9047054/TED2022.Txpn.Basics.5.pdf)
 
-[3_TED_Development_Expression_1](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065914/3_TED_Development_Expression_1.pdf)
+**6th July, 2022**
 
-[4_TED_Development_Expression_2](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065920/4_TED_Development_Expression_2.pdf)
+[Sebastian Arnold: Early Development and gene expression-lecture 1](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065914/3_TED_Development_Expression_1.pdf)
 
-[5_TED_Development_Chromatin_1](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065925/5_TED_Development_Chromatin_1.pdf)
+[Sebastian Arnold: Early Development and gene expression-lecture 2](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065920/4_TED_Development_Expression_2.pdf)
 
-[6_TED_Development_Chromatin_2](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065933/6_TED_Development_Chromatin_2.pdf)
+**7th July, 2022**
+
+[Sebastian Arnold: Early Development and chromatin-lecture 1](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065925/5_TED_Development_Chromatin_1.pdf)
+
+[Sebastian Arnold: Early Development and chromatin-lecture 2](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065933/6_TED_Development_Chromatin_2.pdf)
+
+[Sandra Hake: The Diverse World of Histone Variants](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9087617/SHake_Histone.variants_TED2022.pdf)
 
 **8th July, 2022**
 
-[TED-course-Aktas](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083256/TED-course-Aktas-Reduced.pdf)
+[Marc Timmers: Methods to profile transcription complexes and histone modifications on complex genomes]
 
-[TED-2022-Aktas-reading materials (part 1)](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083260/TED-2022-Aktas-reading-1.zip)
+[Tugce Aktas: Transposable Elements and Genome evolution](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083256/TED-course-Aktas-Reduced.pdf)
 
-[TED-2022-Aktas-reading materials (part 2)](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083291/TED-2022-Aktas-reading-2.zip)
+[Tugce Aktas: reading materials (part 1)](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083260/TED-2022-Aktas-reading-1.zip)
 
-[TED-2022-Aktas-reading materials (part 3)](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083302/TED-2022-Aktas-reading-3.zip)
+[Tugce Aktas: reading materials (part 2)](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083291/TED-2022-Aktas-reading-2.zip)
+
+[Tugce Aktas: reading materials (part 3)](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9083302/TED-2022-Aktas-reading-3.zip)
+
+**11th July, 2022**
+
+[Sebastian Preissl: Single-cell epigenomic and multi-omics technologies](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9087601/SPreissl_Teaching_Lecture_2021pptx.pdf)
+
+[Sebastian Arnold: Stem Cell based models for studies of Development and gene regulation](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9087699/6_TED_StemCellBasedModels.pdf)
+
 
 **Schedule**:
 
