@@ -47,8 +47,7 @@
 
 [Sebastian Arnold: Basics of transcription-lecture 2](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9065891/1_TED_Transcription_2.pdf)
 
-[Sebastian Arnold: Basics of transcription-lecture 3]
-
+[Sebastian Arnold: Basics of transcription-lecture 3](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9087781/2_TED_Transcription_3.pdf)
 
 [Marc Timmers: Basics of transcription-lecture 4](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9047051/TED2022.Txpn.Basics.4.-.given.pdf)
 
