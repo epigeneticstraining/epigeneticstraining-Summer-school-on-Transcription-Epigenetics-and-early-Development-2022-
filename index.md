@@ -95,6 +95,7 @@
 
 <font size="+2">Good luck for your exam tomorrow (15th July, 2022).</font>
 
+
 **Schedule**:
  
 **Time**|**Activity**|**Instructor**|**Affiliation**|**Title**
