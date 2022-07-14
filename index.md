@@ -83,6 +83,18 @@
 
 [Sebastian Arnold: Stem Cell based models for studies of Development and gene regulation](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9087699/6_TED_StemCellBasedModels.pdf)
 
+**12th July, 2022**
+
+[Nicola Iovino: Polycomb discovery and functions](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9115942/Iovino_PcG_TED_2022.pdf)
+
+[Dirk Schübeler: DNA methylation and demethylation](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9115949/SChubeler_DNAmethylation_Teaching.pdf)
+
+**13th July, 2022**
+
+[Nadine Vastenhouw: Genome organization during development, zygotic genome activation](https://github.com/epigeneticstraining/epigeneticstraining-Summer-school-on-Transcription-Epigenetics-and-early-Development-2022-/files/9115955/Vastenhouw_MZT_TED_2022.pdf)
+
+<font size="+2">Good luck for your exam tomorrow (15th July, 2022).</font>
+
 **Schedule**:
  
 **Time**|**Activity**|**Instructor**|**Affiliation**|**Title**
